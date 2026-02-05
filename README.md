@@ -9,7 +9,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?lines=console.log('Hello+World');console.log('Vũ+Văn+Thanh+Tùng');console.log('Learn+React');console.log('Learn+Node.js')&center=true&width=500&height=45"
+    src="https://readme-typing-svg.herokuapp.com/?lines=console.log('Hello+World');console.log('Bùi+Trường+Vũ');console.log('Learn+React');console.log('Learn+Node.js')&center=true&width=500&height=45"
     alt="Typing SVG"
   />
 </p>
@@ -74,7 +74,7 @@
   <a href="https://github.com/vutungvn">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-   <a href="https://web.facebook.com/tungcode2k4/">
+   <a href="https://web.facebook.com/buitruongvu8/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
 </p>
