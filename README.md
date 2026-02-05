@@ -8,8 +8,12 @@
 <h1 align="center">Hi 👋, I'm Vũ Văn Thanh Tùng 🧑‍🎓, Web Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+modern+web+applications;Learning+every+day;Sharing+coding+knowledge&center=true&width=500&height=45">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?lines=Vũ+Văn+Thanh+Tùng;Learn+React;Learn+Node.js&center=true&width=500&height=45"
+    alt="Typing SVG"
+  />
 </p>
+
 
 ---
 
