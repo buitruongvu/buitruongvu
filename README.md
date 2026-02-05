@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Vũ Văn Thanh Tùng 🧑‍🎓, Web Developer</h1>
+<h1 align="center">Hi 👋, I'm Bùi Trường Vũ 🧑‍🎓, Web Developer</h1>
 
 <p align="center">
   <img 
@@ -13,7 +13,6 @@
     alt="Typing SVG"
   />
 </p>
-
 
 ---
 
