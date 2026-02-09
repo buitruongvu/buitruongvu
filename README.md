@@ -50,7 +50,7 @@
 <p align="center">
   <a href="http://github.com/vutungvn">
     <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=vutungvn&theme=tokyo-night&hide_border=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=buitruongvu&theme=tokyo-night&hide_border=true"
       width="100%"
       alt="GitHub Contribution Graph"
     />
@@ -68,10 +68,10 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.tiktok.com/@thanhtung2k4_">
+  <a href="https://www.tiktok.com/@buitruongvu_">
     <img src="https://img.shields.io/badge/TikTok-black?style=flat&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://github.com/vutungvn">
+  <a href="https://github.com/buitruongvu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
    <a href="https://web.facebook.com/buitruongvu8/">
