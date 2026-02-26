@@ -20,7 +20,7 @@
 
 - 💻 Web Developer passionate about building modern web applications
 - 🚀 Focus on clean code & scalable systems
-- 🎥 Sharing coding knowledge on TikTok: **Vũ Lập Trình 👨‍💻**
+- 🎥 Sharing coding knowledge on TikTok: ** Bùi Trường Vũ 👨‍💻**
 
 ---
 
