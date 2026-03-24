@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <a href="https://github.com/vutungvn">
+  <a href="https://github.com/buitruongvu">
     <img src="assets/banner.png" alt="Banner" />
   </a>
 </p>
